@@ -1,0 +1,13 @@
+LOCALXCHANGE
+------------
+
+P2P application to exchange files with nodes on the same LAN.
+Features node autodiscovery, remote file browsing and file transfer. 
+
+This is alpha code, it was meant to be a lightweight replacement to Windows shares and host autodiscovery.
+
+Written in python, uses XMLRPC as base protocol for communications, except file transfer which is on raw TCP.
+
+
+Copyright (C) 2010 Federico Marani
+Released under GPLv3, for more information: http://www.gnu.org/licenses/gpl-3.0.txt
