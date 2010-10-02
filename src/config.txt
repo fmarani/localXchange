@@ -1,0 +1,9 @@
+# config file for LocalXchange
+
+[node]
+name: pippo
+downloaddir: /tmp
+
+[shares]
+download: /media/disk2/download
+fotos: /media/disk2/fotocamera
