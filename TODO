@@ -1,0 +1,15 @@
+TODO
+---
+
+hello in xmlrpc remote for node introduction
+
+----
+
+use functions complete_* di Cmd() -> lack dir and files
+
+----
+
+manage node reconnections
+fix network unreachable problems on broadcast address
+
+gui!
